@@ -10,13 +10,13 @@ Finally, I had found an intrinsic motivation where "work" no longer felt like "w
 
 ## 🛠 Technical Skills:
 - **Languages**: SQL, Python, Jinja (dbt)
-- **Tools & Platforms**: dbt, Looker, Tableau, Mixpanel, Snowflake, Redshift, Google Analytics / Tag Manager
+- **Tools & Platforms**: dbt, Looker, Tableau, Dagster, Airflow, Mixpanel, Snowflake, Redshift, Google Analytics / Tag Manager
 - **Collaboration**: Git, Confluence, MS Office
 - **Project Management**: Jira, Click-up
 
 ## 🌱 What I’m Currently Working On:
 
-I’m currently building a complete ELT process/pipeline with dbt, Airflow, and PostgreSQL to extract, enhance, and analyze my Strava data using an LLM, with the goal of eliminating the need for my Strava subscription. And of course, I’m learning the concepts hands-on, embracing all the little mistakes along the way.
-
+I’m currently building a complete ELT process/pipeline with dbt, Airflow / Dagster and DuckDB to extract, enhance, and analyze my Strava data using an LLM. Thereby I’m learning the concepts hands-on, embracing all the little mistakes along the way.
+- Repo is coming soon.
 ## 🤝 Let's Connect:
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/max-sp%C3%A4th-228234176/)
