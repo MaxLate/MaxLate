@@ -17,6 +17,6 @@ Finally, I had found an intrinsic motivation where "work" no longer felt like "w
 ## 🌱 What I’m Currently Working On:
 
 I’m currently working on an end‑to‑end project where I’m building a complete ELT pipeline using dbt, Airflow/Dagster, and DuckDB to extract, enhance, and analyze my Strava and Whoop data with an LLM. I’m learning the concepts hands‑on and happily embracing all the little mistakes along the way.
-- [Sport Analytics](https://github.com/MaxLate/sport_analytics)
+- [Sport Analytics](https://github.com/MaxLate/sport-analytics-pipeline)
 ## 🤝 Let's Connect:
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/max-sp%C3%A4th-228234176/)
